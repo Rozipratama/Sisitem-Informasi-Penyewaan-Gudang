@@ -1,1 +1,1 @@
-# Sisitem-Informasi-Penyewaan-Gudang
+# Sistem-Informasi-Penyewaan-Gudang
